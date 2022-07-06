@@ -1,0 +1,38 @@
+[
+    {
+        "id":0,
+        "skill": "HTML"
+    },
+    {
+        "id":1,
+        "skill": "CSS/SASS/Stylus"
+    },
+    {
+        "id":2,
+        "skill": "React js"
+    },
+    {
+        "id":3,
+        "skill": "Express"
+    },
+    {
+        "id":4,
+        "skill": "Node Js"
+    },
+    {
+        "id":5,
+        "skill": "Redux"
+    },
+    {
+        "id":6,
+        "skill": "OracleDB"
+    },
+    {
+        "id":7,
+        "skill": "MongoDB"
+    },
+    {
+        "id":8,
+        "skill": "PostgreSQL"
+    }
+]
